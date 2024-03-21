@@ -8,6 +8,6 @@
 Projekt jest kodem do generowania danych losowych.
 	
 ## Technologie
-Project is created with:
+Projekt stworzono za pomoca:
 * Python 3.11
 * Biblioteka Faker
