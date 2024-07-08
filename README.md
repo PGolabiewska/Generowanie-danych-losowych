@@ -1,4 +1,4 @@
-# Generowanie-danych-losowych
+# Generator danych losowych
 
 ## Spis tresci
 * [Informacje ogolne](#informacje-ogolne)
