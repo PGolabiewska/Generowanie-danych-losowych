@@ -1,3 +1,4 @@
+>### English below :arrow_down:
 # Generator danych losowych
 
 
@@ -11,9 +12,6 @@ Projekt stworzono za pomoca:
 
 <br/>
 
->### English below :arrow_down:
-
-
 <br/>
 
 
@@ -26,3 +24,4 @@ This script generates random vital signs data, including temperature (°C), bloo
 The project was created using:
 * Python 3.11
 * Biblioteka Faker
+
